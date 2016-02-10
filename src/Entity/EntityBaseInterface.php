@@ -9,6 +9,7 @@ namespace Drupal\content_entity_base\Entity;
 
 use Drupal\Core\Entity\ContentEntityInterface;
 use Drupal\Core\Entity\EntityChangedInterface;
+use Drupal\entity\Revision\EntityRevisionLogInterface;
 use Drupal\user\EntityOwnerInterface;
 
 /**
